@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2022-11-02
+  Fix:
+    - Vanilla Laser turret range now working
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2022-11-02
+  Features:
+    - Vanilla Turret customizable range
+    - Vanilla Turret ammo's cutomizable magazine size
+    - Vanilla Laser Turret customizable range
+    - Vortik's Cannon's mod support for Cannon's and ammo customization.

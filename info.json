@@ -1,0 +1,14 @@
+{
+    "name": "weapon-balancer",
+    "version": "0.0.2",
+    "factorio_version": "1.1",
+    "title": "Weapon Balancer",
+    "author": "zanven",
+    "contact": "zanven42@gmail.com",
+    "homepage": "https://github.com/AnthonyPoschen/factorio_weapon-balancer",
+    "description": "Allows balancing Weapon range and magazine sizes",
+    "dependencies": [
+        "base >= 1.1.0",
+        "?vtk-cannon-turret"
+    ]
+}
